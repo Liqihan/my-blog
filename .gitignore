@@ -1,0 +1,14 @@
+node_modules
+bower_components
+logs/
+*.log
+*.DS_Store
+npm-debug.log*
+.vscode
+.idea
+bower.json
+dist/*.woff
+dist/*.eot
+dist/db.json
+dist/*.ttf
+dist/*.js.map
