@@ -6,7 +6,6 @@
 var path = require('path'),
     config;
 
-
 config = {
     // ### Production
     // When running Ghost in the wild, use the production environment.
